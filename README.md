@@ -1,2 +1,3 @@
 # csx
-# csx
+Codesmith Javascript Training Material.
+
