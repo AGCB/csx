@@ -5,8 +5,7 @@ let isEven = (input) => {
   return Number.isInteger(input/2)
 }
 
-//those 2 functions above are just for my sanity.
-//if anyone wants to type console.log or use a modulo operator, that's fine
+
 
 
 //Run your JavaScript by pressing the "run" button
