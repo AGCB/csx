@@ -61,7 +61,7 @@ If it is, log true to the console.  Otherwise, log false to the console.
 // p('challenge 3 here we go')
 // p(`Here is num-- ${num}`)
 
-// if (Number.isInteger(num/2)) {p(true)}
+// if (isEven(num)) {p(true)}
 
 
 
@@ -137,8 +137,8 @@ Challenge 7
 Use a for loop to initialize a variable addThis to 0, 
 increment addThis by 1 on each run of the code block, 
 and then to repeat the code block as long as addThis is less than 10. 
-In the code block,  add the value of addThis to sum. T
-he value of sum should be the sum of the numbers 0 through 9.
+In the code block,  add the value of addThis to sum. The value of sum 
+should be the sum of the numbers 0 through 9.
 */
 // p('Challenge 7')
 // let sum = 0;
